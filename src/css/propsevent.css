@@ -1,0 +1,11 @@
+.propsevent button{
+
+    height: 10vh;
+    width: 15vh;
+    border: none;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    margin: 20px;
+
+}
